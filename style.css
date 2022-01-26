@@ -1,0 +1,40 @@
+#cat1 {background-image: url(https://images.unsplash.com/photo-1529778873920-4da4926a72c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y3V0ZSUyMGNhdHxlbnwwfHwwfHw%3D&w=1000&q=80);}
+#cat2 {background-image: url(https://p4.wallpaperbetter.com/wallpaper/29/134/401/cute-kitten-wallpaper-preview.jpg);}
+#cat3 {background-image: url(https://i.pinimg.com/originals/e9/33/53/e933537721d162d540bc4b0f082b991a.jpg);}
+#cat4 {background-image: url(https://www.purinaone.ru/cat/sites/default/files/2020-06/shotlandskaya-vislouhaya-koshka.jpg);}
+#cat5 {background-image: url(https://d17fnq9dkz9hgj.cloudfront.net/uploads/2018/03/Russian-Blue_01.jpg);}
+#cat6 {background-image: url(https://www.cats-british.ru/files/breeds/scotish-fold.jpg);}
+#cat7 {background-image: url(https://litbro.ru/wp-content/uploads/2020/02/CHernyj-vislouhij-kot-1.jpg);}
+#cat8 {background-image: url(https://lapkins.ru/upload/iblock/47b/47bb121df27d33a36d8e84091b83ee5c.jpg);}
+#cat9 {background-image: url(https://vplate.ru/images/article/orig/2019/03/opisanie-i-soderzhanie-seryh-mejn-kunov.jpg);}
+#cat10 {background-image: url(https://pets.mail.ru/pre_rect840x0_resize/pic/wysiwyg/2019/06/18/animals-3714805_1280.jpg);}
+#cat11 {background-image: url(https://funart.pro/uploads/posts/2021-07/1627159103_3-funart-pro-p-lisii-britanskii-kot-zhivotnie-krasivo-fot-4.jpg);}
+#cat12 {background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRmmi5B3WVqk-e7to1jL-l5Qd0jZpxcUdPOg&usqp=CAU);}
+#cat13 {background-image: url(https://petstime.ru/wp-content/uploads/2021/03/seal-pont.jpg);}
+
+
+.custom-carousel {
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+}
+.custom-img {
+    height: 30vh;
+    background-position: center;
+    background-size: cover;
+}
+.divider-page {
+    margin: 5rem 0;
+  }
+
+.featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -.05rem;
+}
+
+@media (min-width: 62em) {
+    .featurette-heading {
+        margin-top: 7rem;
+    }
+}
